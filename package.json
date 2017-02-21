@@ -29,8 +29,8 @@
     "test": "istanbul cover node_modules/mocha/bin/_mocha -- --opts test/mocha.opts"
   },
   "peerDependencies": {
-    "inferno": "^0.7.16",
-    "fela": "^1.1.0"
+    "inferno": "^1.3.0-rc.3",
+    "fela": "^4.2.5"
   },
   "devDependencies": {
     "babel": "^6.5.2",
